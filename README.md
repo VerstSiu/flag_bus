@@ -1,6 +1,8 @@
 
 # Flag Bus
 
+[![](https://jitpack.io/v/VerstSiu/flag_bus.svg)](https://jitpack.io/#VerstSiu/flag_bus)
+
 Android flag bus library.
 
 ## Get Start
@@ -20,6 +22,7 @@ Android flag bus library.
 
     ```gradle
     dependencies {
+        implementation 'com.github.VerstSiu:flag_bus:1.0'
     }
     ```
 
