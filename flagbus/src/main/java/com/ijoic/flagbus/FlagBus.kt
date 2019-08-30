@@ -55,4 +55,14 @@ object FlagBus {
    */
   @JvmStatic
   var isBetaEnabled = false
+
+  /**
+   * Store release status.
+   *
+   * Use to differ apks from which downloaded from application stores(such as Google Play).
+   *
+   * <p>Default as <code>false</code></p>
+   */
+  @JvmStatic
+  var isStoreRelease = false
 }
