@@ -1,6 +1,6 @@
 package sample.ijoic.flagbus
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.ijoic.flagbus.FlagBus
 import kotlinx.android.synthetic.main.activity_main.*
