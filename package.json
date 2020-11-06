@@ -1,6 +1,6 @@
 {
   "name": "flag_bus",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "[![](https://jitpack.io/v/VerstSiu/flag_bus.svg)](https://jitpack.io/#VerstSiu/flag_bus)",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
     "url": "https://github.com/VerstSiu/flag_bus/issues"
   },
   "homepage": "https://github.com/VerstSiu/flag_bus#readme",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
 }
